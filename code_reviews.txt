@@ -1,4 +1,9 @@
 Bad Review
+
+https://codereview.stackexchange.com/questions/201187/simple-react-component-to-view-cached-data-and-test-result-from-api
+This is a good code review because because it is short and simple with good feedback to make sure that the code is configurable 
+and has correct dependencies. 
+
 https://codereview.stackexchange.com/questions/287229/iterating-the-octree-while-keeping-track-of-the-positive-neighboring-nodes
 
 This was a bad review because although it has a lot of good information it is very drawn out and the person asking the qusetion 
