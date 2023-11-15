@@ -1,0 +1,5 @@
+Bad Review
+https://codereview.stackexchange.com/questions/287229/iterating-the-octree-while-keeping-track-of-the-positive-neighboring-nodes
+
+This was a bad review because although it has a lot of good information it is very drawn out and the person asking the qusetion 
+might be looking for something more concise.
