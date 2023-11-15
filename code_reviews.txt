@@ -1,3 +1,10 @@
+Code Review similarities/differences/good practice
+Some similarities were having concice and smaller pushes, as well as not being to harsh with others when issues are made. A difference
+would be that Microsoft puts a greater emphasis on working well with people, compared to Yelp having good practice with the software itself.
+Generally good practice seems to respect others and check with others before doing anything extreme.
+
+
+
 Bad Review
 
 https://codereview.stackexchange.com/questions/201187/simple-react-component-to-view-cached-data-and-test-result-from-api
