@@ -1,6 +1,6 @@
 int main() {
 
-    print("Hello world, my name is Patrick");
+    print("Hello, my name is Patrick");
 
     return 0;
 }
